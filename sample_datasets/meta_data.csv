@@ -1,0 +1,11 @@
+id,data_type,daily_seasonality,weekly_seasonality,noise (high 30% - low 10%),trend,cyclic_period (3 months),percentage_outliers,percentage_missing,freq
+1.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+2.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+3.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+4.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+5.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+6.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+7.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+8.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+9.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D
+10.csv,additive,exist,exist,small,exist,exist,0.05,0.05,1D

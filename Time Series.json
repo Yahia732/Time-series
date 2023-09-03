@@ -1,0 +1,13 @@
+{
+"Start Date": "1/7/2021",
+"End Date": "1/7/2023",
+"Sampling Frequency in Minutes": "1D",
+"Daily Seasonality": "exist",
+"Weekly Seasonality": "exist",
+"Cyclic Periods": "exist",
+"Trend Level": "exist",
+"Time-Series Data Type": "additive",
+"Noise Level": "small",
+"Outliers Percentage": "0.05",
+"Number of datasets to be generated": "10"
+}

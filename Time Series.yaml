@@ -1,0 +1,11 @@
+Start Date: 4/1/2016
+End Date: 4/5/2019
+Sampling Frequency in Minutes: 30T
+Daily Seasonality: exist
+Weekly Seasonality: None
+Trend Level: no
+Cyclic Periods: exist
+Time-Series Data Type: multiplicative
+Noise Level: large
+Outliers Percentage: 0.2
+Number of datasets to be generated: 7
